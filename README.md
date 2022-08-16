@@ -1,9 +1,6 @@
 ### Hi there I'm Efron Paduansi 👋
 
-- 🔭 I am a student of Informatics Engineering
-- 🌱 I’m currently learning PHP, LARAVEL FRAMEWORK & JAVA
-- 🤔 I love to share tutorials about Linux & Programming on my YouTube Channel & Blog
-- 📫 How to reach me ? Send your email to efronius@programmer.net or find me on Instagram @efronpaduansi
-- ⚡ Fun fact: I love Coffee & Milk
-- 🤔 How to ask me? Visit for more tutorials on Obrolan IT YouTube Channel
+I am a Junior Programmer from Indonesia. I like to write programs using Java and PHP. I'm currently focusing on Spring Framework, Laravel and Codeigniter. 
+In the midst of my busy life, I actively share tutorials on YouTube and my personal blog. You can visit it at https://myefronius.blogspot.com. Oh yes, I am a user of a Linux-based operating system. Thank you!.
+Wanna chat? Send me on email efronius@programmer.net
 
