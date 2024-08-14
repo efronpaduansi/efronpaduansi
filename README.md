@@ -1,4 +1,4 @@
 ### Welcome 👋
 
-Hello! I'm Efron Paduansi, a Programmer from Indonesia. I'm interested in PHP Framework, NodeJS & ExpressJS.
+Halo, saya Efron Paduansi. Anda bisa memanggil saya Efron. Saya adalah seorang Backend Developer yang terus fokus mengembangkan skill dengan mempelajari banyak hal dan latihan. Saya suka menulis artikel seputar dunia IT dan Programming. Oia, saya adalah seorang lulusan Teknik Informatika di Universitas Pamulang, Banten.
 
