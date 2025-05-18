@@ -9,3 +9,5 @@ Halo, saya Efron Paduansi. Anda bisa memanggil saya Efron. Saya adalah seorang B
 - Codeigniter
 - C#
 - .NET
+- Ms. SQL
+- MongoDB
